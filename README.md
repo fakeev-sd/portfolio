@@ -1,2 +1,2 @@
 # portfolio
-About me and All my works in one place.
+All my works in one place.
