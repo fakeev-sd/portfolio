@@ -2,6 +2,7 @@ body {
     background: black;
     color: LightBlue;
     font-family: Bahnschrift;
+    src: url("https://github.com/fakeev-sd/portfolio/blob/main/Bahnschrift.ttf");
     margin: 0;
     padding: 0;
     line-height: 1.6;
