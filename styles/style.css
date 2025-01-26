@@ -4,10 +4,12 @@ body {
     padding: 0;
     line-height: 1.6;
     background-color: black;
+    color: white;
 }
 
 header {
-    background-color: #f4f4f4;
+    background-color: black;
+    color: white;
     text-align: center;
     padding: 20px;
 }
