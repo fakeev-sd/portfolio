@@ -9,7 +9,7 @@ body {
 
 header {
     background-color: black;
-    color: floralwhite;
+    color: LightBlue;
     text-align: center;
     padding: 20px;
 }
@@ -19,7 +19,7 @@ section {
     padding: 10px;
     border: 1px solid #ddd;
     background-color: black;
-    color: white;
+    color: LightBlue;
 }
 
 a {
